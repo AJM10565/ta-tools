@@ -1,14 +1,14 @@
 # ta-tools
-A reference for new TA's at LUC (or somewhere else) based on my experience as a computer science TA for 2 years.
+A reference for new TA's at LUC (or somewhere else) based on my experience as a computer science TA for two years.
 
 Dear Computer Science Teaching Assitant:
 
 Sometimes I wonder about the nature of what it means to be a teaching assistant. 
 
-Mastery of a subject improves as you're forced to explain what you know to others. Assuming a class of perfect students, the ability of a professor to teach can be tested by assessing the students on what they were taught. Assuming a perfect professor, the ability of the students to learn can be measured by assesing them on what they were taught. In most cases, neither the professor nor the students are perfect. The job of the TA therefore is to help bridge the gap on both ends.
-A Teaching Assistantship is a paid position. Your work is valuable to the university, to the professor and to the students. You are tied to a professor or 3 each semester, and your function is to make their lives easier. -> Sometimes I wonder about the merits of having student cohorts with an assigned TA and the outcomes of keeping the classes more or less the same but changing out the professor. Instead of 4 TA's each helping on one class for all the students, each cohort of students get a learning assistant that grades there work and holds office hours, etc. But I digress <-
+Mastery of a subject improves as you're forced to explain what you know to others. Assuming a class of perfect students, a professor’s ability to teach can be tested by assessing the students on what they were taught. Assuming an ideal professor, the strength of the students to learn can be measured by evaluating them. In most cases, neither the professor nor the students are perfect. The job of the TA, therefore, is to help bridge the gap on both ends.
+A Teaching Assistantship is a paid position. Your work is valuable to the university, to the professor, and to the students. You are tied to a professor or three each semester, and your function is to make their lives easier. -> Sometimes, I wonder about the merits of having student cohorts with an assigned TA and the outcomes of keeping the classes more or less the same but changing out the professor. Instead of four TA's each helping on one course for all the students, each cohort of students gets a learning assistant that grades there work and holds office hours, etc. But I digress <-
 
-It is important to set boundaries between work and life. Many of my TA professors have become confidants or friends, but should you feel that you are unable to bear your task load due to one or more professors overloading you do to those relationships, you need to act immediately to reaffirm your specific class duties. An overloaded TA does neither the students nor the professors any good.
+It is essential to set boundaries between work and life. Many of my TA professors have become confidants or friends, but should you feel that you are unable to bear your task load due to one or more professors overloading you do to those relationships, you need to act immediately to reaffirm your specific class duties. An overloaded TA does neither the students nor the professors any good.
 
 How a CS TA is different from any other TA. -Automaton.
 
